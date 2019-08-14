@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2018",
+    "resolveJsonModule": true,
+    "lib": [
+      "esnext"
+    ],
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "outDir": "../lib",
+  },
+}
