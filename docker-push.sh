@@ -9,5 +9,5 @@ else
   TAG=GIT_BRANCH
 fi
 
-# echo "docker push $DOCKER_REPO:$TAG ."
-docker push $DOCKER_REPO:$TAG .
+# echo "docker push $DOCKER_REPO:$TAG"
+docker push $DOCKER_REPO:$TAG
